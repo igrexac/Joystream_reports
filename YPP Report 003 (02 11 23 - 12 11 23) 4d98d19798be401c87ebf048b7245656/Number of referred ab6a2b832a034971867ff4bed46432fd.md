@@ -2,13 +2,32 @@
 
 | Number of referred | Gleev Channel ID | Link YT | Status | Subscribers YT |
 | --- | --- | --- | --- | --- |
+| 88 | 31767 | https://www.youtube.com/channel/UCTPe4xLe4oCV6G8BEuGCD2w | Silver | 38000 |
+| 66 | 31499 | https://www.youtube.com/channel/UCIspirjwlw_Pcdk_PmG13cA | Rejected | 11 |
+| 57 | 33099 | https://www.youtube.com/channel/UCkjqdNNIDJRN-G4Ew98ffBw | Bronze | 47 |
+| 50 | 31832 | https://www.youtube.com/channel/UCTtI6RgqOxPjJUkCN_VBvKw | Silver | 1560 |
+| 45 | 36045 | https://www.youtube.com/channel/UCQgG7AAsaQ_5Vn_r6HqNt_A | Rejected | 23200 |
+| 37 | 29993 | https://www.youtube.com/channel/UC2mXKqvyN45wZ7kVC5jTa5A | Bronze | 2750 |
+| 36 | 34941 | https://www.youtube.com/channel/UCR8_ac8B_4n-MYF6a2kGDcw | Bronze | 14 |
+| 35 | 30354 | https://www.youtube.com/channel/UC-8UofFzGLmCx2ysqRKl-ew | Silver | 25700 |
 | 30 | 30720 | https://www.youtube.com/channel/UC1d3mpMVcOjb3VVgU2Hpsgg | Bronze | 449 |
 | 29 | 31880 | https://www.youtube.com/channel/UCpA-d-fcUgOFRPDY13EzCug | Bronze | 533 |
+| 26 | 34767 | https://www.youtube.com/channel/UCdWm-19iAtvkoiKXZR-b2Zw | Bronze | 1 |
+| 24 | 36463 | https://www.youtube.com/channel/UC3VXr-QKoh34-YdhqTQZgwA | Bronze | 1270 |
 | 23 | 30348 | https://www.youtube.com/channel/UCLvWy9UX5TnKby4U1Gcw-DA | Bronze | 735 |
 | 21 | 31560 | https://www.youtube.com/channel/UC5xNH0vnNvxt0pc6k6tVaLg | Bronze | 141 |
 | 19 | 28429 | https://www.youtube.com/channel/UC2WKsYBxMwx7E7ENkND-fkg | Gold | 87100 |
+| 18 | 31837 | https://www.youtube.com/channel/UC4ND7MxorpfkgZc1VosjdTA | Bronze | 56 |
+| 17 | 41056 | https://www.youtube.com/channel/UCJPGYV2Cxcz0F3394hfkhkw | Unverified | 118 |
+| 16 | 33274 | https://www.youtube.com/channel/UCKx3DPoJYwqQcodaOScjnOA | Bronze | 1230 |
 | 15 | 30025 | https://www.youtube.com/channel/UCDb48bdOZDBt0pireej7LwA | Bronze | 11400 |
 | 15 | 34236 | https://www.youtube.com/channel/UClUJpAFkk4PsaP8-lTZrfOw | Silver | 25500 |
+| 14 | 31612 | https://www.youtube.com/channel/UC4hWYaKEJVQcnO46-MGmuRA | Bronze | 70 |
+| 14 | 31711 | https://www.youtube.com/channel/UCY-8w-xMoBNttgQNSKjfr8w | Bronze | 5 |
+| 14 | 32891 | https://www.youtube.com/channel/UCgbjuLpwdbD1og-7HOsWbnA | Bronze | 130 |
+| 14 | 38773 | https://www.youtube.com/channel/UCzI49GdphWLc5MHcj0NO_IQ | Bronze | 1400 |
+| 14 | 38124 | https://www.youtube.com/channel/UCQYV7wIyg-gisHWkj_3daEg | Unverified | 1150 |
+| 14 | 36931 | https://www.youtube.com/channel/UCg4Xm0g6BBQHyXjZtwn9sNA | Bronze | 1000 |
 | 13 | 33242 | https://www.youtube.com/channel/UC-U-o_qZJow3vpJg7-GJ4tQ | Bronze | 5 |
 | 13 | 35253 | https://www.youtube.com/channel/UCKY6Fs4HBh7K2EZp5snbD_w | Bronze | 133 |
 | 12 | 33418 | https://www.youtube.com/channel/UCp4IoEnU71M84icmwCHrr7Q | Bronze | 888 |
@@ -16,6 +35,9 @@
 | 11 | 32698 | https://www.youtube.com/channel/UCeTz2jJjtGj6lsBAkgsMpwg | Bronze | 9 |
 | 11 | 38013 | https://www.youtube.com/channel/UCa-27byf5-vjB9VI7KrmFWg | Unverified | 1080 |
 | 11 | 37486 | https://www.youtube.com/channel/UCqpm5S-kGqFsYOk5bFcdUzQ | Rejected | 6 |
+| 10 | 34671 | https://www.youtube.com/channel/UCMvqF2RP7n7y-YHe5VhHB-w | Bronze | 45 |
+| 10 | 35215 | https://www.youtube.com/channel/UC7jWP7EDuqNRS3FHqQXcBGg | Bronze | 11 |
+| 10 | 35580 | https://www.youtube.com/channel/UCU3NiX_VM1fEqJ-xCuECxLA | Bronze | 2490 |
 | 9 | 32927 | https://www.youtube.com/channel/UCpj-xFiauAXhkggqtbr53rA | Bronze | 677 |
 | 9 | 33672 | https://www.youtube.com/channel/UCoDRir25fC5DtKS2MJ3EFWA | Bronze | 1390 |
 | 9 | 33862 | https://www.youtube.com/channel/UCGzdMuRhizdcHqVXLzhbjQw | Bronze | 25 |
