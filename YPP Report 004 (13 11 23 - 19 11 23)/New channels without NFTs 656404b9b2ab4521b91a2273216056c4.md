@@ -1,10 +1,13 @@
 # New channels without NFTs
 
 Finding the best video for each channel takes a lot of time. Currently in process.
+Status	Link YT	Link Channel 
 
-| Gold | https://www.youtube.com/channel/UC5EeIngnx87RwS1bEwNVJIg | https://gleev.xyz/channel/41799 |
-| --- | --- | --- |
-| Gold | https://www.youtube.com/channel/UCuJx6FlSRTGRVVAJQ4E9IMg | https://gleev.xyz/channel/43600 |
+
+| Status | Link YT                                                  | Link Channel                    |
+| ------ | -------------------------------------------------------- | ------------------------------- |
+| Gold   | https://www.youtube.com/channel/UC5EeIngnx87RwS1bEwNVJIg | https://gleev.xyz/channel/41799 |
+| Gold   | https://www.youtube.com/channel/UCuJx6FlSRTGRVVAJQ4E9IMg | https://gleev.xyz/channel/43600 |
 | Silver | https://www.youtube.com/channel/UCLh9Knj4ZhjP8Z0BWHiiYlw | https://gleev.xyz/channel/41904 |
 | Silver | https://www.youtube.com/channel/UCrz3HSZDE2g9dR0Stp1KQag | https://gleev.xyz/channel/43561 |
 | Silver | https://www.youtube.com/channel/UC2vTT0R16EgaRa9OPkfsEUw | https://gleev.xyz/channel/43567 |
