@@ -31,7 +31,7 @@ Change:
 | --- | --- |
 | 34892 | 0.9 |
 | 26256 | 0.9 |
-| 28593 | 1.1 |
+| 28593 | 0.13 |
 
 upd: 09.01.24 (20:20 UTC)
 
@@ -203,7 +203,7 @@ upd: 09.01.24 (20:20 UTC)
 | 162 | 34892 | Afnan Earning | 0.9 |
 | 163 | 29772 | Professor na web 3.0 | 0.9 |
 | 164 | 47867 | Nahuel Sebastian | 0.9 |
-| 165 | 28593 | BRO LIFE STYLE | 0.9 |
+| 165 | 28593 | BRO LIFE STYLE | 0.13 |
 | 166 | 35979 | White RRR 1k | 0.9 |
 | 167 | 35992 | transformers | 0.9 |
 | 168 | 38810 | Parvezofficial_Blog | 0.9 |
