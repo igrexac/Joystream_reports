@@ -2,7 +2,7 @@
 
 This table shows which Silver+ channels brought new authors this week
 
-| Inviter status | Inviter link | referredBy | Link YT | Status |
+| Inviter status | Inviter link | ChannelID | Link YT | Status |
 | --- | --- | --- | --- | --- |
 | Diamond | https://www.youtube.com/channel/UC0pHpxSt_4gd63WylQL0cVQ | 44254 | https://www.youtube.com/channel/UC67YbV-52urev_XipMWiVag | Bronze |
 |  |  |  | https://www.youtube.com/channel/UCapr4HQv2T91iloXKvenYGA | Bronze |
